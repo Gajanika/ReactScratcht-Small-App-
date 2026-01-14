@@ -15,3 +15,17 @@ function App() {
 }
 
 export default App;
+//state என்றால் என்ன?
+
+//👉 Component-க்குள்ள data
+//👉 Change ஆனா UI re-render ஆகும்
+
+//state = concept (idea)
+//useState என்றால் என்ன?
+
+//👉 state-ஐ Functional Component-ல use பண்ண hook
+
+// = implementation (tool)
+
+//👉 state = data
+//👉 useState = data handle பண்ண tool
